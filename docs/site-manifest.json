@@ -2,9 +2,10 @@
   "schema": 1,
   "version": "0.19.50",
   "url": "https://coolwindjo.github.io/workbench-releases/",
+  "redirect": "https://coolwindjo.github.io/workbench/",
   "files": {
-    "index.html": "8b8374ba3b30c208b1c2df01324a2b8a7a39b6a4ebbc581dc9a700afac5eb0cc",
-    "manual/index.html": "347724f54eadd6492f9dbbfb0cc212b1589e502f568a79806e3f12fbdb6e5221",
-    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "index.html": "0bbb3bbe30bc2461aa5a83b26540e3552fa8943cf690070348a4287eb2ff4e28",
+    "manual/index.html": "a88f84ffdd8673cfd4e546ea2a556e78b865fa0e79a5a0dda98e897526fb7308"
   }
 }
