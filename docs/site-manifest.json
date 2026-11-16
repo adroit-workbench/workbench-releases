@@ -1,11 +1,10 @@
 {
   "schema": 1,
-  "version": "0.19.50",
-  "url": "https://coolwindjo.github.io/workbench-releases/",
-  "redirect": "https://coolwindjo.github.io/workbench/",
+  "version": "0.19.51",
+  "redirect": "https://agentic-wb.github.io/",
   "files": {
     ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "index.html": "0bbb3bbe30bc2461aa5a83b26540e3552fa8943cf690070348a4287eb2ff4e28",
-    "manual/index.html": "a88f84ffdd8673cfd4e546ea2a556e78b865fa0e79a5a0dda98e897526fb7308"
+    "index.html": "5d6189e39f771dc6cc6f1809b74f4d532a97416c38a9e6cb1b88b801b8ec6347",
+    "manual/index.html": "6dadfebbeb18bd85e76b60e23263a061c29ac50ad12408846fe58603ce7a89c0"
   }
 }
