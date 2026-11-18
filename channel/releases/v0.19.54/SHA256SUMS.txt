@@ -1,0 +1,3 @@
+9b2f89ecc8bf07a151e9b254d2daa036905fe2ffd270d2812f26ca297b39ebc2  Workbench-0.19.54-macOS-universal.zip
+e7e9dc8d067ab0f30626214fa66dc6bf47a170482dac4ae26206cb1a74eecb2e  Workbench-0.19.54-Obsidian-plugin.zip
+ad3cc1e97ddc065d13cc203a5411dfadc1855d4f1810367c8cefdab8746a2440  Workbench-0.19.54-Windows-x64-Setup.exe
